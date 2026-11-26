@@ -368,6 +368,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 396080234841443316, guid: f78ba405b0781dd41abf8ccacede354d, type: 3}
+      propertyPath: prefix
+      value: 'Installed:'
+      objectReference: {fileID: 0}
+    - target: {fileID: 396080234841443316, guid: f78ba405b0781dd41abf8ccacede354d, type: 3}
+      propertyPath: suffix
+      value: /5
+      objectReference: {fileID: 0}
     - target: {fileID: 677729637367987146, guid: f78ba405b0781dd41abf8ccacede354d, type: 3}
       propertyPath: m_Name
       value: Goal
@@ -423,6 +431,10 @@ PrefabInstance:
     - target: {fileID: 2648393517009589718, guid: f78ba405b0781dd41abf8ccacede354d, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.90497
+      objectReference: {fileID: 0}
+    - target: {fileID: 3931603452134566357, guid: f78ba405b0781dd41abf8ccacede354d, type: 3}
+      propertyPath: m_text
+      value: 'Installed: 0 '
       objectReference: {fileID: 0}
     - target: {fileID: 3931603452134566357, guid: f78ba405b0781dd41abf8ccacede354d, type: 3}
       propertyPath: m_fontSize
